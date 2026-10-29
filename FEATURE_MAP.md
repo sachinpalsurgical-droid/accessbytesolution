@@ -15,6 +15,8 @@
 - Resources: keyword/category filters, guides and download-as-text.
 - Interactive contrast checker with text and color-picker inputs, WCAG contrast thresholds and a live sample preview.
 - Accessible website launch checklist covering structure, keyboard access, forms, visual presentation and validation.
+- Keyboard testing walkthrough covering focus, navigation order, widgets, responsive testing and useful issue reports.
+- Accessible forms field guide covering labels, controls, validation, status feedback and end-to-end testing.
 - Standards: individual scope pages; tools: links to external references.
 - Industries: fourteen category pages.
 - Process, pricing planner (scope only; no fake numbers), partnerships and portfolio interactive comparison.
