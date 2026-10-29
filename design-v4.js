@@ -18,7 +18,36 @@ function home(){return `
 <div class="v4-home">
 <section class="v4-hero" aria-labelledby="v4-title"><div class="v4-noise" aria-hidden="true"></div><div class="v4-hero-grid">
 <div class="v4-hero-left"><span class="v4-overline"><i></i> ACCESSIBILITY / DOCUMENTS / DIGITAL</span><h1 id="v4-title">Digital content.<br><span class="v4-emphasis">Human access.</span><br>Zero barriers<span class="v4-dot">.</span></h1><p class="v4-lead">We make complex documents and digital experiences easier to navigate, understand, and use—for more people, on more devices, with more confidence.</p><div class="v4-hero-buttons"><a class="v4-btn v4-btn-primary" href="/request-quote">Start a project ${svg('arrow')}</a><a class="v4-btn v4-btn-secondary" href="/services">Explore our work <span aria-hidden="true">↗</span></a></div><div class="v4-hero-trust"><span>${svg('check')} Human-led validation</span><span>${svg('shield')} Standards-informed</span><span>${svg('globe')} Global-minded</span></div></div>
-<div class="v4-hero-art" aria-label="Illustration of a tagged and structured PDF document. This is a conceptual demonstration."><div class="v4-art-orbit orbit-one" aria-hidden="true"></div><div class="v4-art-orbit orbit-two" aria-hidden="true"></div><div class="v4-art-badge v4-badge-top">${svg('spark')} <span><b>Document clarity</b><small>Better by design</small></span></div><div class="v4-workspace"><div class="v4-app-head"><span class="v4-dots"><i></i><i></i><i></i></span><span>ACCESSBYTE / STUDIO</span><span class="v4-preview-pill">INTERACTIVE PREVIEW</span></div><div class="v4-app-layout"><div class="v4-app-sidebar"><span>▦</span><span>≡</span><span>◈</span><span>⌘</span></div><div class="v4-app-document"><div class="v4-app-meta">ANNUAL REPORT <span>01 / 12</span></div><div class="v4-paper"><span class="v4-paper-kicker">A NEW STANDARD FOR INCLUSION</span><div class="v4-paper-title">Information,<br><em>made accessible.</em></div><span class="v4-paper-rule"></span><span class="v4-paper-line"></span><span class="v4-paper-line short"></span><div class="v4-paper-bars"><i style="height:42%"></i><i style="height:64%"></i><i style="height:54%"></i><i style="height:86%"></i><i style="height:70%"></i></div></div></div><div class="v4-app-inspector"><span class="v4-inspector-caption">DOCUMENT REVIEW</span><span class="v4-inspector-label">Structure overview</span><div class="v4-inspector-rows" id="v4-inspector"><div><span>Heading hierarchy</span><b>✓</b></div><div><span>Reading order</span><b>✓</b></div><div><span>Alternative text</span><b>✓</b></div><div><span>Table structure</span><b>✓</b></div></div><span class="v4-demo-disclaimer">Illustrative workflow</span></div></div></div><div class="v4-art-badge v4-badge-bottom">${svg('check')} <span><b>Usability is the goal</b><small>Beyond automated checks</small></span></div></div>
+<div class="v4-hero-art" aria-label="Illustrative accessibility scoreboard. Example metrics only — not a live audit result.">
+<div class="v4-scoreboard-glow" aria-hidden="true"></div>
+<div class="v4-scoreboard">
+  <div class="v4-scoreboard-head">
+    <div class="v4-scoreboard-skel" aria-hidden="true"><i></i><i></i></div>
+    <span class="v4-scoreboard-seal" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="none"><circle cx="12" cy="12" r="10" fill="#2B9AE8"/><path d="m7.5 12.2 3 3 6-6.4" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+  </div>
+  <div class="v4-scoreboard-metrics">
+    <article>
+      <span class="v4-score-icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#2B9AE8" stroke-width="1.9" stroke-linecap="round"><path d="M4 19V11M10 19V5M16 19v-6M22 19H2"/><path d="M16 8v3"/></svg></span>
+      <small>AUDIT SCORE</small>
+      <strong>98/100</strong>
+    </article>
+    <article>
+      <span class="v4-score-icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#2B9AE8" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3h7l5 5v13H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/><path d="M14 3v6h6M9 13h6M9 17h4"/></svg></span>
+      <small>DOCUMENTS</small>
+      <strong>10,000+</strong>
+    </article>
+  </div>
+  <div class="v4-scoreboard-status">
+    <span class="v4-status-dot" aria-hidden="true"></span>
+    <span>WCAG 2.1 AA Compliant</span>
+    <b>VERIFIED</b>
+  </div>
+  <div class="v4-scoreboard-cert" aria-hidden="true">
+    <span class="v4-cert-star">★</span>
+    <span>CERTIFIED COMPLIANCE</span>
+  </div>
+</div>
+</div>
 </div><div class="v4-hero-end"><span>SCROLL TO EXPLORE <b>↓</b></span><span>INCLUSIVE BY DESIGN • CONSIDERED IN EVERY DETAIL</span></div></section>
 <section class="v4-standard-bar" aria-label="Accessibility frameworks"><span>FRAMEWORKS WE WORK WITH</span><b>PDF/UA</b><b>WCAG 2.1 / 2.2</b><b>SECTION 508</b><b>ADA</b><a href="/standards">Explore standards ↗</a></section>
 <section class="v4-services-section" id="expertise"><div class="v4-container"><div class="v4-section-heading"><div><div class="v4-kicker">01 / WHAT WE DO</div><h2>Specialist capability.<br><em>Connected thinking.</em></h2></div><div><p>Accessibility is more than a final check. We connect structure, user experience and quality across content formats.</p><a class="v4-text-link" href="/services">View all services ↗</a></div></div><div class="v4-tabs" role="tablist" aria-label="Service categories"><button role="tab" aria-selected="true" id="v4-tab-documents" aria-controls="v4-service-panel" data-v4-tab="documents">Documents <span>01</span></button><button role="tab" aria-selected="false" tabindex="-1" id="v4-tab-digital" aria-controls="v4-service-panel" data-v4-tab="digital">Digital experiences <span>02</span></button><button role="tab" aria-selected="false" tabindex="-1" id="v4-tab-partnerships" aria-controls="v4-service-panel" data-v4-tab="partnerships">Partnerships <span>03</span></button></div><div class="v4-service-grid" id="v4-service-panel" role="tabpanel" aria-labelledby="v4-tab-documents">${catalog.documents.map(card).join('')}</div></div></section>
