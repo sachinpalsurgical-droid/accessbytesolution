@@ -21,6 +21,7 @@ function home(){return `
 <div class="v4-hero-art" aria-label="Illustrative accessibility scoreboard. Example metrics only — not a live audit result.">
 <div class="v4-scoreboard-glow" aria-hidden="true"></div>
 <div class="v4-scoreboard">
+  <span class="v4-scoreboard-watermark" aria-hidden="true">WCAG</span>
   <div class="v4-scoreboard-head">
     <div class="v4-scoreboard-skel" aria-hidden="true"><i></i><i></i></div>
     <span class="v4-scoreboard-seal" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="none"><circle cx="12" cy="12" r="10" fill="#2B9AE8"/><path d="m7.5 12.2 3 3 6-6.4" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
