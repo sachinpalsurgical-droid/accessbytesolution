@@ -4,6 +4,10 @@
 
 Extract the ZIP, enter `AccessByteSolutions_Frontend` and open `index.html` in Chrome, Edge or Safari. The site supports local file previews using hash-based navigation. For live use, upload the entire folder contents to static hosting; the `/brochure`, `/portfolio`, `/capability-deck`, `/certifications` and other route folders contain direct-load entrypoints.
 
+## GitHub Pages deployment
+
+The site is published at `https://sachinpalsurgical-droid.github.io/accessbytesolution/` from the repository root on `main`. Keep **Pages → Build and deployment → Source** set to **Deploy from a branch**, with branch `main` and folder `/ (root)`. The project-path router keeps internal links, direct page loads and refreshes inside `/accessbytesolution/`.
+
 ## Navigation
 
 Home | About Us | Services | Brochure | Portfolio | Industries | Capability Deck | Certifications | FAQs | Contact. Additional services, tools, standards, resources and process pages remain available through links and the footer. On narrower screens, use the hamburger navigation.
