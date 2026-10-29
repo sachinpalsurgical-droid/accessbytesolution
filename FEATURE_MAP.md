@@ -13,6 +13,8 @@
 - Homepage: hero, standards, service categories, specialist catalog, workflow, comparison teasers, industries, insights.
 - Services: searchable specialist catalogue, detail pages, internal links and contact CTAs.
 - Resources: keyword/category filters, guides and download-as-text.
+- Interactive contrast checker with text and color-picker inputs, WCAG contrast thresholds and a live sample preview.
+- Accessible website launch checklist covering structure, keyboard access, forms, visual presentation and validation.
 - Standards: individual scope pages; tools: links to external references.
 - Industries: fourteen category pages.
 - Process, pricing planner (scope only; no fake numbers), partnerships and portfolio interactive comparison.

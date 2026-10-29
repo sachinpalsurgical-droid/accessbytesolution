@@ -49,6 +49,7 @@ The redesigned frontend keeps the original Technova Midnight Violet foundation a
 - An editorial process section, six quality principles, accessible FAQ accordions, and an illustrative before/after document demonstration.
 - A less crowded navigation header with Services and Explore menus, reworked typography, purposeful hover effects, scroll progress, and back-to-top control.
 - Improved desktop/tablet/mobile behavior, respect for reduced-motion preferences, and visible keyboard focus.
+- A live color-contrast checker and an accessible website launch checklist, both linked from the homepage and available as direct-load pages.
 - Corrected direct-load entry pages for the 20 current sector URLs, so industry cards do not point to unimplemented routes.
 
 ### How to preview
